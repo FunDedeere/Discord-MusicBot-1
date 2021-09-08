@@ -14,7 +14,7 @@ module.exports = {
   IconURL:
     "https://cdn.discordapp.com/attachments/884803772797308929/884966819981574144/images.jpg", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   Permissions: 2205280576, //Bot Inviting Permissions
-  Website: process.env.Website || "http://mythis.xyz", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
+  Website: process.env.Website || "http://localhost", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
 
   //Lavalink
    Lavalink: {

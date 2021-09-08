@@ -16,7 +16,7 @@
     "required": "true"
   },      
   "Token": {
-    "description": "The Discord Bot Token (ODg0OTUyMTQzMDU5MDk5NjY4.YTf96A.LtPupD8jCOFistQ8g9x8ycWboaI)",
+    "description": "The Discord Bot Token (https://discord.com/developers/applications",
     "required": "true"
   },
   "Discord_ClientID": {

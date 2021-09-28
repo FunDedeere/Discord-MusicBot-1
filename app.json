@@ -1,5 +1,5 @@
 {
-  "name": "Discord-MusicBot",
+  "name": "Bosey Music",
   "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
   "repository": "None.",
   "logo": "https://cdn.discordapp.com/attachments/884803772797308929/884966819981574144/images.jpg",
@@ -7,7 +7,7 @@
   "image": "heroku/nodejs",
   "buildpacks": [
       {
-          "url": "heroku/nodejs"
+          "url": ".com/node"
       }
   ],
 "env": {
